@@ -1,6 +1,7 @@
 package com.douzi.concurrent;
 
 /**
+ * a loop container
  * @author zouwei
  * @date 2019-03-18
  */
